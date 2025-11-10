@@ -3,9 +3,6 @@
 > algo-linear-search@1.0.0 test
 > jest
 
-  console.log
-    [ 1, 3, 5 ]
-
       at Object.log (linearSearch.js:25:9)
 
  PASS  ./linearSearch.spec.js

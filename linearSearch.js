@@ -22,6 +22,4 @@ for (let i = 0; i < arr.length; i++){
 return search
 }
 
-console.log(globalLinearSearch("a", bananaList)); // [ 1, 3, 5 ]
-
 module.exports = { linearSearch, globalLinearSearch };
