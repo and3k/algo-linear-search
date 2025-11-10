@@ -1,5 +1,5 @@
 # npm test                        
-`code`
+
 > algo-linear-search@1.0.0 test
 > jest
 
@@ -23,4 +23,3 @@ Tests:       6 passed, 6 total
 Snapshots:   0 total
 Time:        0.114 s, estimated 1 s
 Ran all test suites.
-`code`
